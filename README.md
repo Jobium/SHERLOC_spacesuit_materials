@@ -1,5 +1,5 @@
-# SHERLOC Spacesui Material Study
-Python Jupyter Notebooks for processing and analysis of DUV Raman spectra of spacesuit materials on Mars
+# SHERLOC Spacesuit Material Study
+Python Jupyter Notebooks for processing and analysis of DUV Raman spectra of the spacesuit materials onboard NASA's Perseverance Mars rover.
 
 These Notebooks process Raman & fluorescence spectra and spectral maps acquired using the MOBIUS and SHERLOC instruments.
 
